@@ -2,13 +2,14 @@
 <body>
 
 <?php
+// Branche devops1
 // Prints the day !!!
 echo date("l") . "<br>";
 
-// Prints the day, date, month, year, time, AM or PM
+// Prints the day, date, month, year, time, AM or PM !!!
 echo date("l jS \of F Y h:i:s A") . "<br>";
 
-// Prints October 3, 1975 was on a Friday
+// Prints October 3, 1975 was on a Friday !!!
 echo "Oct 3,1975 was on a ".date("l", mktime(0,0,0,10,3,1975)) . "<br>";
 
 // Use a constant in the format parameter
