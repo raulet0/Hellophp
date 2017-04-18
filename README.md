@@ -1,3 +1,5 @@
 # Hellophp
 
-My testing Project
+My testing Project.
+
+This is a test project to experiment GIT. 
